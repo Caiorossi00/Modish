@@ -21,4 +21,4 @@ Adicionar um display de mais informações sobre as peças com Javascript ao cli
 Novas seções <br>
 Visual do Footer
 
-Link: <a href="https://caiorossi00.github.io/Modish/">Modish</a>
+Link: <a href="[https://caiorossi00.github.io/Modish/](https://caiorossi00.github.io/Modish/)https://caiorossi00.github.io/Modish/">Modish</a>
