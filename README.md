@@ -1,7 +1,7 @@
 <h1>Loja de roupas</h1>
 
 Projeto Inicial: Modish - Uma vitrine de moda utilizando estilização em CSS<br>
-Este é um projeto desenvolvido em HTML e CSS, com o intuito de servir como prática. O site permite que o usuário navegue por diversas seções e peças de vestuário na mesma página.
+Este é um projeto desenvolvido em HTML, CSS e Javascript com o intuito de servir como prática. O site permite que o usuário navegue por diversas seções e peças de vestuário na mesma página. Todas as seções de kits são geradas de maneira dinâmica por meio da inserção com javascript pela utilização de manipulação do DOM.
 
 Destaques e Aprendizados: <br>
 <ol>
