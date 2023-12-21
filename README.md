@@ -8,16 +8,27 @@ Destaques e Aprendizados: <br>
   <li>Design responsivo</li>
   <li>UX & UI</li>
   <li>Posicionamentos</li>
+  <li>Objetos</li>
+  <li>Manipulação do DOM</li>
+  <li>Loops</li>
 </ol>
 
 Datas Importantes: 
 <ul>
   <li>Início: 11/12/2023</li>
   <li>Conclusão: 11/12/2023</li><br>
+<br>
+Revisão 1: 21/12/2023
 </ul>
 
+Revisão 1: <br>
+Refatoração do código com o uso de Javascript;<br>
+Todos os kits são tratados como objetos;<br>
+Todos os kits são inseridos por Javascript ao invés de HTML; <br>
+A função de adicionar mais kits é dinâmica.
+
 Possíveis Revisões Futuras: <br>
-Adicionar um display de mais informações sobre as peças com Javascript ao clicar em More+ <br>
+Adicionar um display de mais informações sobre as peças<br>
 Novas seções <br>
 Visual do Footer
 
