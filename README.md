@@ -18,7 +18,7 @@ Datas Importantes:
   <li>Início: 11/12/2023</li>
   <li>Conclusão: 11/12/2023</li><br>
 <br>
-Revisão 1: 21/12/2023
+<li>Revisão 1: 21/12/2023</li>
 </ul>
 
 Revisão 1: <br>
