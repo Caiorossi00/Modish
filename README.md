@@ -29,6 +29,7 @@ A função de adicionar mais kits é dinâmica.
 Possíveis Revisões Futuras: <br>
 Adicionar um display de mais informações sobre as peças<br>
 Novas seções <br>
-Visual do Footer
+Visual do Footer <br>
+Kits aparecendo conforme a página é scrollada para baixo
 
 Link: <a href="https://caiorossi00.github.io/Modish/">Modish</a>
