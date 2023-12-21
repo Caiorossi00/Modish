@@ -56,19 +56,19 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
-const kits = document.querySelectorAll(".kits-container");
-window.addEventListener("scroll", appearKits);
+// const kits = document.querySelectorAll(".kits-container");
+// window.addEventListener("scroll", appearKits);
 
-function appearKits() {
-    const triggerBottom = window.innerHeight / 5 * 4;
+// function appearKits() {
+//     const triggerBottom = window.innerHeight / 5 * 4;
     
-    kits.forEach(kit => {
-        const kitTop = kit.getBoundingClientRect().top;
+//     kits.forEach(kit => {
+//         const kitTop = kit.getBoundingClientRect().top;
 
-        if (kitTop < triggerBottom) {
-            kit.classList.add("kits-show");
-        } else {
-            kit.classList.remove("kits-show");
-        }
-    });
-}
+//         if (kitTop < triggerBottom) {
+//             kit.classList.add("kits-show");
+//         } else {
+//             kit.classList.remove("kits-show");
+//         }
+//     });
+// }
