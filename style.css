@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique&family=Bebas+Neue&display=swap');
 
 * {
     overflow-x: hidden;
@@ -74,45 +72,39 @@ a:hover {
     align-items: center;
 }
 
-.kit01-bg{
+.kit01-bg, .kit02-bg, .kit03-bg, .kit04-bg {
     background-color: #9c835a;
+    position: absolute;
+    z-index: -1;
+}
+
+.kit01-bg{
     width: 20em;
     height: 20em;
-    position: absolute;
     margin-bottom: 10em;
     margin-left: 10em;
-    z-index: -1;
 }
 
 .kit02-bg {
-    background-color: #9c835a;
     height: 20em;
-    position: absolute;
     margin-top: -3em;
     margin-right: -6em;
     width: 21em;
-    z-index: -1;
 }
 
 .kit03-bg {
-    background-color: #9c835a;
     width: 24em;
     height: 18em;
-    position: absolute;
-    z-index: -1;
     margin-top: 10em;
     margin-right: 7em;
     margin-top: 12em;
 }
 
 .kit04-bg {
-    background-color: #9c835a;
     width: 18em;
     height: 15em;
-    position: absolute;
     margin-left: 5em;
     margin-bottom: 15em;
-    z-index: -1;
 }
 
 .kit01-foto1-style {
@@ -159,12 +151,3 @@ a:hover {
     list-style: none;
     font-weight: bolder;
 }
-
-/* .kits:nth-of-type(even){
-    transform: translateX(-400%);
-
-} */
-
-/* .kits.show {
-    transform: translateX(0);
-} */
